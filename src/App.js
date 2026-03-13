@@ -6,6 +6,7 @@ function App() {
    <>
    <h1>Welcome to React</h1>
    <h1>New line added</h1>
+   <h1>cicd added for testing</h1>
    </>
   );
 }
